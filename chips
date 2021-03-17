@@ -1,2 +1,6 @@
 nano chips
+<<<<<<< HEAD
 this edit is made on a branch
+=======
+the other edit was in made on master. THIS edit was made on branch!
+>>>>>>> crazycolors
